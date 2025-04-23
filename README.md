@@ -55,5 +55,3 @@ This is an all-in-one, enterprise-grade SaaS platform for the restaurant industr
 
 ## License
 MIT License
-
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/ehsanalirj/secret?utm_source=oss&utm_medium=github&utm_campaign=ehsanalirj%2Fsecret&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
