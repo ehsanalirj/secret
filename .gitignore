@@ -1,0 +1,24 @@
+npm install bcrypt multer morgan express-validator nodemailer winston uuid stripe
+npm install --save-dev jest supertest concurrently cross-env# Node
+node_modules/
+.env
+
+# Logs
+logs/
+*.log
+
+# Build
+build/
+dist/
+
+# Database
+*.sqlite
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

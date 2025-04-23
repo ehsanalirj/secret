@@ -1,0 +1,20 @@
+@import url('/fonts/manrope.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --primary: #232946;
+  --accent: #0070f3;
+  --bg: #f4f7fa;
+  --muted: #e3e7ee;
+  --success: #22c55e;
+  --danger: #ef4444;
+}
+body {
+  font-family: 'Manrope', 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: var(--bg);
+  color: var(--primary);
+  letter-spacing: -0.01em;
+  font-feature-settings: "ss01";
+}
+
